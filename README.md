@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @akshitkh47612(akshit)
-- 👀 I’m interested in server side development (how the things work behind the scenes)
-- 🌱 I’m currently learning java spring.
-- 💞️ I would love to collaborate on backend projects (js).
+- 👀 I’m interested in server side development and emerging AI/ML.
 - 📫 You can reach me on akshitkh47@gmail.com.
 
 <!---
